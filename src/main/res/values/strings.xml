@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <!-- Settings -->
+    <string name="symbol_prompt">Your symbol</string>
+    <string name="symbol_x">X (you start the game)</string>
+    <string name="symbol_o">O (you are 2nd player)</string>
+    <string name="level_prompt">Difficulty level</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_normal">Normal</string>
+    <string name="level_hard">Hard</string>
+
+    <!-- Tool menu -->
+    <string name="rate_app">Game Rating</string>
+    <string name="info_app">About Game</string>
+    <string name="action_settings">Game Settings</string>
+    <string name="app_exit">Exit</string>
+    <string name="action_score">Scoreboard</string>
+    <string name="game_restart">Restart Game</string>
+    <string name="clear_score">Clear Score</string>
+
+    <!-- Game mood messages -->
+    <string name="msg_running">waiting for you&#8230;</string>
+    <string name="msg_draw">so&#8230; it\'s a draw!</string>
+    <string name="msg_win_human">yahoo&#8230; you win! you win!</string>
+    <string name="msg_win_android">you lost! try again&#8230;</string>
+
+    <!-- SharedPreferences -->
+    <string name="saved_game">SAVED_GAME</string>
+    <string name="saved_first_turn">SAVED_FIRST_TURN</string>
+    <string name="saved_difficulty_level">SAVED_DIFFICULTY_LEVEL</string>
+    <string name="saved_score">SAVED_SCORE</string>
+
+    <!-- Reset confirmation -->
+    <string name="reset_title">Are you sure?</string>
+    <string name="reset_game_message">Current game will be restarted.</string>
+    <string name="reset_score_message">
+        Current scoreboard will be cleared along with the player rating.
+    </string>
+
+    <!-- Scoreboard -->
+    <string name="title_win">Win</string>
+    <string name="title_draw">Draw</string>
+    <string name="title_lost">Lost</string>
+
+    <!-- Information for this Game -->
+    <string name="info_title">Challenge yourself!</string>
+    <string name="info_message1">
+        Tic Tac Toe is a simple, yet strategic game. It\'s a great way to test your intelligence.
+        Use your brain for new tricks and various combinations to complete either your three crosses or
+        noughts in horizontal, vertical or diagonal manner before android does.
+    </string>
+    <string name="info_features_title">
+        This application gives you updated features like:
+    </string>
+    <string name="info_features1">
+        &#8226; Game for all comes with three different levels – easy, normal and hard.
+    </string>
+    <string name="info_features2">
+        &#8226; Be a first player with Cross (X) or second with a Nought (O) – it’s your choice.
+    </string>
+    <string name="info_features3">
+        &#8226; You can track your score and rating any time – Beat it.
+    </string>
+    <string name="info_features4">
+        &#8226; Auto-save lets you exit at any point and return back where you left – so your phone
+        call does not interfere with your score.
+    </string>
+    <string name="info_features5">
+        &#8226; Cool color separation and display graphics – like it horizontal or vertical.
+    </string>
+    <string name="info_end">So, let the fun begin.</string>
+
+
+    <!-- Rate this Game -->
+    <string name="rate_title">Want to Rate Tic Tac Toe?</string>
+    <string name="rate_message1">
+        Tic Tac Toe also known as \'Noughts and Crosses\' is a classic fun game for young hearts who
+        love testing their intelligence.
+    </string>
+    <string name="rate_message2">
+        Please rate this game if you like it and enjoy playing.
+    </string>
+</resources>

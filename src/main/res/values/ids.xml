@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="grid_row_1" />
+    <item type="id" name="grid_row_1_sep_1" />
+    <item type="id" name="grid_row_1_sep_2" />
+    <item type="id" name="grid_sep_1" />
+    <item type="id" name="grid_row_2" />
+    <item type="id" name="grid_row_2_sep_1" />
+    <item type="id" name="grid_row_2_sep_2" />
+    <item type="id" name="grid_sep_2" />
+    <item type="id" name="grid_row_3" />
+    <item type="id" name="grid_row_3_sep_1" />
+    <item type="id" name="grid_row_3_sep_2" />
+</resources>

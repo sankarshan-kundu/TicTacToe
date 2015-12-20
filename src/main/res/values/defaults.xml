@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_game">EEEEEEEEE</string>
+    <string name="default_first_turn">FIRST_TURN_HUMAN</string>
+    <string name="default_difficulty_level">LEVEL_NORMAL</string>
+</resources>
